@@ -50,6 +50,12 @@
       "interval": "1 Minute",
       "technicalType": "ffmap",
       "mapType": "list/status"
+    },
+    {
+      "url": "http://api.freifunk-niersufer.de/all/nodes.json",
+      "interval": "1 Minute",
+      "technicalType": "ffmap",
+      "mapType": "list/status"
     }
   ],
   "support": {
